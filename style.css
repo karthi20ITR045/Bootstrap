@@ -1,0 +1,25 @@
+.navbar{
+    background:deeppink;
+    
+}
+.nav-link,.navbar-brand{
+    color: white;
+}
+.nav-link:hover{
+   background-color: white;
+   color: deeppink !important;
+   border: 2px solid white;
+   border-radius: 10px;
+}
+nav .navbar-brand:hover{
+         color:white;
+         transform: none;
+         border-bottom: none;
+}
+nav button i {
+    color: deeppink;
+    
+}
+nav button{
+background: white !important;
+}
